@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EjemploSerialization</string>
+    <string name="option_net">.NET en Inglés</string>
+    <string name="option_java">Java en Inglés</string>
+    <string name="option_oracle">Oracle en Inglés</string>
+    <string name="option_morning">Morning</string>
+    <string name="option_afternoon">Afternoon</string>
+    <string name="option_indiff">No matters</string>
+    <string name="save">Save</string>
+    <string name="close">Close</string>
+</resources>
